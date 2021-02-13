@@ -1,7 +1,7 @@
 {
     "sendHeader": [
         {
-            "code": "for (const a in val) {\nif (val[a].name.toLowerCase() === 'cookie') {\nval[a].value += '; birthtime=-729000000; lastagecheckage=1-January-1900; mature_content=1; wants_mature_content=1; ';\nbreak;\n}\n}",
+            "code": "for (const a in val) {\nif (val[a].name.toLowerCase() === 'cookie') {\nval[a].value += 'birthtime=-729000000; lastagecheckage=1-January-1900; mature_content=1; wants_mature_content=1';\nbreak;\n}\n}",
             "enable": true,
             "group": "Steam",
             "isFunction": true,
