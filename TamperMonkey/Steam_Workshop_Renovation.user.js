@@ -7,13 +7,13 @@
 // @icon https://store.steampowered.com/favicon.ico
 // @include http*://steamcommunity.com/sharedfiles/filedetails/*
 // @include http*://steamcommunity.com/workshop/filedetails/*
-// @license GPL Version 3 or Any Later Version
+// @license GNU General Public License Version 3.0
 // @name Steam Workshop Renovation
 // @namespace https://lcshan63.github.io/
 // @run-at Document-End
 // @supportURL https://keylol.com/t95271-1-1
 // @updateURL https://github.com/LCShan63/Neat-Utan/raw/Archive/TamperMonkey/Steam_Workshop_Renovation.user.js
-// @version 1.00
+// @version 1.01
 // ==/UserScript==
 
 if(typeof onYouTubeIframeAPIReady == 'function')
