@@ -11,10 +11,10 @@
 // @license GNU General Public License Version 3.0
 // @name Bilibili WebRTC Annihilator
 // @namespace https://lcshan63.github.io/
-// @run-at Document-End
+// @run-at Document-Start
 // @supportURL https://nga.178.com/read.php?tid=25285579
 // @updateURL https://github.com/LCShan63/Neat-Utan/raw/Archive/TamperMonkey/Bilibili_WebRTC_Annihilator.user.js
-// @version 1.00
+// @version 1.01
 // ==/UserScript==
 
 const funcs = [
